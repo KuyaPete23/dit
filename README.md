@@ -1,2 +1,3 @@
 # dit
-Doctor in Information Technology, and work files for Project TIWALA (2025 to present) 
+Doctor in Information Technology (National University - Manila)
+Course work, IEEE, Case studies, and work files for Project TIWALA (2025 to present) 
